@@ -1,1 +1,1 @@
-Basketball.JPG;Bird.JPG;Car.JPG;Dinosaur.JPG;Flowers.JPG;Football.JPG;Fox.JPG;Golf.JPG;Harry_Potter.JPG;Helicopter.JPG;Hockey.JPG;Running.JPG;Snowboarding.JPG;Spaceship.JPG;Swimming.JPG;Tennis.JPG;Tiger.JPG
+animal-Bird.JPG;animal-Dinosaur.JPG;animal-Fox.JPG;animal-Tiger.JPG;fictional;character-Harry_Potter.JPG;organism-Flowers.JPG;sport-Basketball.JPG;sport-Football.JPG;sport-Golf.JPG;sport-Hockey.JPG;sport-Running.JPG;sport-Snowboarding.JPG;sport-Swimming.JPG;sport-Tennis.JPG;vehicle-Car.JPG;vehicle-Helicopter.JPG;vehicle-Spaceship.JPG
